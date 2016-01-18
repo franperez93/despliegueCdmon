@@ -5,9 +5,9 @@
 </head> 
 <body>
 
-<h1>Si sale esto en produccion la he cagado </h1>
+<h1>Icono del dia</h1>
 
-<h3>Hola internauta, como estas</h3>
+Esto es un saludo
 
 <img src="randomicon.php"/>
 

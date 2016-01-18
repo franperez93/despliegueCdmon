@@ -7,7 +7,7 @@
 
 <h1>Icono del dia</h1>
 
-Esto es un saludo
+<h3>Arreglando el saludo</h3>
 
 <img src="randomicon.php"/>
 

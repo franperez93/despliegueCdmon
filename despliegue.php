@@ -10,6 +10,7 @@
         "refs/heads/master";
         
         //Ejecutar el script de puesta en produccion
+        
         shell_exec('sh /entrada/PUESTA_EN_PRODUCCION.sh');
         shell_exec('date >> log.txt');
         
